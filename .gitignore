@@ -9,7 +9,7 @@ gen
 ### JupyterNotebooks template
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
-./gdm_lab_4_5_reflection_on_trainable_parameters_ipynb_.ipynb
+gdm_lab_4_5_reflection_on_trainable_parameters_ipynb_.ipynb
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
@@ -176,6 +176,13 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Project-specific
+checkpoints/
+*.pt
+*.pth
+data/input.txt
+models/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
