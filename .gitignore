@@ -9,7 +9,7 @@ gen
 ### JupyterNotebooks template
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
-gdm_lab_4_5_reflection_on_trainable_parameters_ipynb_.ipynb
+./gdm_lab_4_5_reflection_on_trainable_parameters_ipynb_.ipynb
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
